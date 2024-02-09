@@ -1,0 +1,240 @@
+PAŃSTOWE RATOWNICTWO MEDYCZNE 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+oznaczenia kartek 
+S - specjalistyczna - teoretycznie powinien być lekarz ale może go zastąpić ratownik medyczny albo
+pielęgniarka systemu. Zespół 3 osobowy (lekarz + dwóch ratowników medycznych) 
+P - podstawowa - bez lekarza. minimum dwóch ratowników medycznych 
+R - już nie ma, były reanimacyjne, już nie ma.  
+N - neonatologiczna. od wcześniaków 
+W - kiedyś była wypadkowa 
+T - transport medyczny - nie w systemie
+
+kto jest najblizej ten jedzie
+
+SOR - więcej specjalistów i więcej możliwości diagnostycznych. mają zabezpieczyć nagłe stany 
+Izba Przyjęć - Jest ukierunkowa na konkretne specjalizacje, jak np. chirurg, interna itp... Do wszystkiego innego niż nagłe stany 
+
+999 - dyspozytornia medyczne 
+112 - operator, który tylko przekazuje informację
+
+W PRM istnieją jednostki wspomagające z KSRG + GOPR + WOPR + LTR
+
+LPR - pilot + ratownik / pielęgniarka + obowiązkowo lekarz systemu
+
+BEZPIECZEŃSTWO 
+~~~~~~~~~~~~~~~~~ 
+1. Okulary ochronne 
+2. Rękawice 
+3. Kask
+
+Niebezpieczne wirusy: HIV, WZW (bardzo łatwo przenoszalny) 
+
+Ocena bepzieczeństwa miejsca zdarzenia pod kątek bezpieczeństwa ratowników 
+
+ZAGROŻENIA ŚRODOWISKOWE 
+~~~~~~~~~~~~~~~~~~~~~~~ 
+1. Gleba
+- pestycydy 
+- bakterie / wirusy
+- radiacyjne
+
+2. Terroryzm
+- 
+
+<!-------- ANATOMIA I FIZJOLOGIA ---------
+
+
+UKŁAD ODDECHOWY
+~~~~~~~~~~~~~~
+- Jama Nosowa
+- Gardło
+- Krtkań
+- Tchawica
+- Oskrzela x2 
+- Oskrzeliki
+- Pęcherzyki Płucne Jama ustna nie jest częścią układu oddechowego
+
+Funkcje nosa: nawilża, ogrzewa, oczyszcza, zwmysł powonienia 
+Gardło: część nosowa, ustna, krtaniowa 
+Krtań: struny
+głosowe - narząd który łączy gardło i tchawice
+
+Oskrzela: lewe - prawe, wyścielana błoną migawkową lewe
+- dłuższe 
+- mniejsza średnica
+- położone bardziej poziomo prawe
+- krótsze
+- większa średnica
+- położona bardziej pionowa
+
+Oskrzeliki: małe przewody zakończone pęcherzykami płucnymi Pęcherzyki płucne tworzą płuca, są otoczone naczyniaimi
+włosowatymi.  Powierzchnia pęcherzyków płucnych to około 70 metrów kwadratowych. 
+
+Prawe płuco jest podzielone na trzy płaty Lewe płuco jest podzielone na dwa płaty
+
+Opłucna (dwie, płucna i ścienna). Pomiędzy dwoma błonami podczas wdechy tworzy się podciśnienie które ciągnie płuca za
+sobą.  Złamane żebro może przebić opłucną ścienna, co powoduje brak różnicy ciśnienia, odmę opłucną, zapadające się
+płuco => stan zagrożenia życia
+
+Oddychanie wewnętrzne tlenowe i beztlenowe, ATP -> komórki Wymiana tlenowa -> oddychanie zewnętrzne
+
+Osoba dorosła: 12--20 oddechów / minut, 4-7ml powietrza na kilogram masy ciala podczas pojedynczego wdechu. 6 litrów
+powietrza / minuta Oddech > 40 oddechów na minutę sugeruje niewydolność oddechową. 
+
+Badanie ABCDE: Airway -> Breathing -> 
+
+
+UKŁAD KRĄŻENIA
+~~~~~~~~~~~~~~
+
+Krew stanowi 7% masy ciała
+
+Funkcje: odżywcza termoregulacyjna obronna ......
+
+Erytrocyty: Transport tlenu do wszystkich kopmórek w organizmie; 4.5M~5M/mm3 Trombocyty: Płytki krwi odpowiedzialne za
+krzepnięcie: 150k-350k/mm3 Leukocyty: bardzo rozbudowana grupa krwinek będących odpowiedzią na patone: 4k-10k/mm3
+Osocze: Płyt w którym są zawieszone wszystkie krwinki, około 55% całej objętości krwi. 
+
+Serce: Narząd układu krążenia, pompa o działaniu pompy ssąco - tłoczącej. JEst zbydowana z tkanek nie występującej
+nigdzie indziej. Jest umieszczone w worku osierdziowym.  Zbydowany z tkanki poprzecznie prążkowanej serca.  Żyła główna
+-> prawy przedsionek -> prawa komora -> żyła płucna -> lewy przedsionek -> lewa komora -> organizm
+
+Krążenia wieńcowe. Utlenianie samego serca. Zamknięcie tętnicy wieńcowej -> zawał (mięśnia sercowego) Krążenie małe -
+płucne Krążenie duże - organizm - aorta -> pień trzewny -> tenice udowe, biodrowe. Układ żylny ma dwa poziomy, żyły
+głębokie i powierzchowne, bardziej skomplikowany. 
+
+Tętno dla osoby dorosłej: 60-100. Mniej - bradykardia, więcej tachykardia Ciśnienie dla osoby dorosłej: 120-129/80-84
+mmHg Im dziecko starsze tym więkze ciśnienie
+
+Sprawdzenie tentna tętnica promieniowa
+
+
+UKŁAD NERWOWY
+~~~~~~~~~~~~~~
+
+Ośrodkowy - obwodowy 
+OŚRODKOWY: Mózgowie, rdzeń kręgowy
+
+Mózgowie: 
+a) kresomózgowie: największa, przednia część, płat czołowy - funkcję wykonawcze, skupienie uwagim nowa, płat
+ciemieniowy - matematyka, mowa 
+b) pień mózgu: ośrodki odpowiedzialne za oddychanie, regulację pracy serca, temperatury i
+ciśnienia, stan przytomności. uszkodzenia może doprowadzić do utraty przytomności, gorączke 
+c) móżdzek: równowaga, koordynacja ruchów, napięcie mięśniowe. Łatwo pomylić z upojeniem alkoholu 
+
+Mózg jest tkanką miękką, którą łatwo uszkodzić. Otoczony jest oponami mózgowymi: twarda, pajęcza, miękka. To, że nie
+widać żadnych obrażeń na czaszce nie świadczy o braku uszkodzeń mózgowia. Bardzo często po urazach głowy może dojśćdo
+krwawienia w przestrzeń podpajęczykową. Dochodzi do upływu krwi, krwiak
+
+Rdzeń Kręgowy: Jest pokryty tymi samymi błonami co mózgł (opona twarda, pajęczynowa ...) W środku, pod błonami znajduje
+się płyn mózgowo rdzeniowy. Jeżeli dojdzie do przerwania rdzenia kręgowego nie ma możłiwości połączęnia pomiedzy mózgiem
+a mięsniami - porażenia. Regulacja wytwarzania substansji adrenalina, noradrenalina itp itd. 
+
+OBWODOWY 
+Łącznik pomiędzy ośrodkowym układem nerwowym a narządami nerwy czaskowe, 12 par I - Węchowy II - węchowy
+Stymulacja nerwu błędnego aby zwolnić akcje serca. Nerw błędny jest blokoany przez atropinę, co blokuje nerw błędny i
+powoduje zwiększenie akcji serca. 
+
+nerwy rdzeniowe, 31 par odchodzących od rdzenia kręgowego
+
+Ukłąd współczulny (autonomiczny) i przywspółczulny.  
+Układ współczulny
+- chormowny wialki i ucieczki
+- choroba
+- konieczność podjęcia szybkiej decyzji
+- układ pokarmowy zwalnia, nie jest potrzebny w sytuacji stresowej, chamowanie żółci
+
+Przywspółczulny
+- Wydzielanie insuliny
+- Zwalnia akcja serca
+- senność
+- działa na przykład po sjedzeniu posiłku
+
+Neurony: Wysyłająca wysyła neuroprzekaźniki, które pasują do komórki odbierającej. Odbiorca nie zareaguje na
+neuroprzekaźniki do których nie na receptorów
+
+ 
+UKŁAD RUCHU
+~~~~~~~~~~~~
+
+Bierny (szkielet) - Czynny (mięśnie)
+
+U dorosłego człowieka 206 kości, u dziecka jest ich więcej gdyż niektóre kości nie są ze sobą pozrastane a są połączone
+chrząstkami.  Szkielet ośrodkowy skłąda sięz czaski, kręgosłupa, żeber (12 par) i mostka - klatka piersiowa od obojczyka
+to ostatniej partii żeber Szkielet kończyn górnych i dolnych wraz z ich obręczami 
+
+Ręka: od nadgarstka do palców.  Łokieć: 3 kości Przeramie: kość łokciowa i promieniowa Miednica: 3 różne kości.  Kośc
+kończyn dolnych: kość udowa, staw kolanowa, kość strzałkowa + piszczelowa
+
+
+Układ mięśniowy Każdy mięsień ma przyczepy nad stawami.  Staw to połaczenie kości. Kazdy staw ma jamę stawową i jest
+zamknięty w torebce stawową. Ruch w stawie jest smarowany przez maź. Staw jest trzymany przez przyczepy mięśni.  Mięsień
+górny jest przyczepiony poniżej stawu. 
+
+Skręcenie: przekroczony zakres ruchu Zwichnięcie: utrata kontaktu chrząstek stawowych ze sobą. 
+
+
+------ Koniec anatomii -------!>
+
+Pierwsza piątka: 
+- Środki ochrony
+- Bezpieczeństwo miejsca zdarzenia
+- Liczba poszkodowanych
+- Siły i Środki
+- Jaki był mechanizm urazu
+
+Jeżeli jest taka możliwość do poszkodowanego się podchodzi od przodu, od strony nóg. Od strony w którą patrzy poszkodowany. 
+
+schemat CABCDE
+Kwrotok vs krwawienie - zidentyfikowanie trudnych do zatamowania krwotoków
+C - Jeżeli występuje trudny do zatamowania krwotok, to należy zacząć od jego zatamowania nawet przed udrożnieniem gród
+oddechowych, sprawdzeniem czy poszkodowany oddycha itp. 
+
+A - Airway 
+Drożność dróg oddechowych. Głównym problemem jest zapadnięty jezyk. Udrożnienie: Czołu + palec na części kostnej. Tylko
+dla osób nie urazowych. Dla poszkodowanych urazowych wysunięcie żuchwy do przodu.
+
+B - Breathing 
+Oddech badania się 10 sekunda, hipotermia minuta do dwóch
+
+C - Circulation - krążenie
+Na tętnicy szyjnej i promieniowej na raz. Centralizacja krążenia -> objawy wstrząsu -> podawanie tlenu. Badanie tentna
+przez 10 sekund, chyba w przypadku pacjentó w hipotermii. 
+Nawrót kapilarny?? -  
+
+D - Disability - Zaburzenia stanu świadomości
+Skale GCS (Glascow Coma Scale), AVPU (Alert, Verbal, Pain, Unresponsive)
+alert) zdezorientowany, skupia uwagę
+verbal) reaguje na polecenia głosowe
+pain) reaguje na bodźce bulowe
+unresponsive) nie regauje na bodźce 
+
+E - Exposive - badanie urazowe - ITLS - od głowy na dół 
+Co go doprowadziło do sytucji w której potrzebna jest pomoc.
+
+1. pojawienie się niedrożności
+2. zatrzymanie krążenia
+3. masywny krwotok
+4. niebezpieczeństwo w miejscu zdarzenia
+
+
+<!--------------- Psychologiczne aspekty wsparcia poszkodowanych -------
+
+Opanowanie, pewność siebie, umiejętność pracy w grupie, odporność, wrażeliwość na ludzką krzywdę i ból. 
+
+Umiejętność aktywnego słuchania jest podstawą kontaktu. Zainteresowanie tym, co przekazuje nam rozmówca,
+pozwala zrozumieć rozmówcę
+
+empatia emocjonalna - współodczuwanie przeżyć 
+
+empatia poznawcza - jak człowiek myśli o sytuacji, w której się znalazł. 
+
+Nie minimializować stanu w którym znalazł się poszkodowany. 
+
+- wsparcie aspekt informacyjny -> lepsze zrozumienie syuacji i lepsza współpraca
+- wsparcie aspekt praktyczny -> zaspakajanie podstaowych potrzeb, np. długo nie piła woda 
+- wsparcie aspekt 
+
+----------------- Psychologiczne aspekty wsparcia poszkodowanych ------------!>
+
