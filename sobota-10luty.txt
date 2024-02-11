@@ -197,26 +197,75 @@ Ocena B i C odbywa się przez dziesięć sekund.
 
 Ad a) Badanie głowy
 Przejechanie obrysu do okoła, spradzenia czy nie ma widocznych krwawień na rękawice albo wyczuwalnych wgnieceń, wgłbień itp. 
+Płym mózgowo-rdzeniowy jest tłusty i żółtawy. 
+Oceń: Rany głowy, złamanie kości czaski, nieróność źrenic
+Złamanie podstawy czaszki - Krwiaki okularowe, zasinienie za uszami, wyciek płynu mózgowo - rdzeniowego z ucha/nosa
+Postępowanie przy obrażeniach głowy: unieć głowe powyżej ciała (30 stopni), nie transportować głową do dołu 
 
 Ad b) Badanie szyji
 Czy jest jakaś bolesność, może być wyczuwalne silne napięcie, czy tchawica nie jest przesunięta, 
+Uszkodzenie kręgosłupa - niestabilny kręgosłup 
+Kiedy założyć kołnierz
+- nagłe pogorszenie stanu świadomości
+- tkliwość szyi
+- zaburzenia czucia
+- zniekształcenia
+- na czas ewakuacji
 
 Ad c) Badanie klawki piersiowej
 Dzielimy wizualnie na cztery kwadranty. Jedna ręka nad cycek, druga ręka pod cycek. Uciskamy zdecydowanie. 
-Jesteśmy w stanie wyczuć bolesność, wbite ciało obce, złamane żebro
+Jesteśmy w stanie wyczuć bolesność, wbite ciało obce, złamane żebro, symetria unoszenia się klatki piersiowej
+Niestabilność kżeber - zapadanie się klatki piersiowej - trzy żebra złamane w dwóch miejscach. 
+Brak symetrii unoszenia się klatki piersiowej - odma po jednej stronie (zapadanie sie płuca), bolesność 
+Odma opłucnowa - nie musi dojść do perforacji klatki piersiowej. 
+Odma opłudnowa prężna
+Obrażenia klatki piersiowej POSTĘPOWANIE:
+- dedykowany opatrunek do zabezpieczenia rany klatki piersowej
+- jeśli brrak zaklejenie "na ślepo"
+- jeśli rozwiajjasięobjawy odmy prężnej - usuń opatrunek
+odma prężna - przy ruchu klatki piersiowej powietrze wpada do środka a nie wychodzi. wywiera dodatnie ciśnienie od
+środka, może zaczać przesuwać się na drugą stronę, przesuwać serce, duże naczynia krwionośne i drugie płuco. Jak mamy
+kolegę możemy odbarczyć 
 
-Ad d) Wypadek brzucha 
+Ad d) Badanie brzucha 
+rany, zasinienia, twardość, ból, obrona mięśniowa - automatycznie skurcze, twardy brzuch przy obrażeniach, wytrzewienie
+Zaopatrywanie wytrzzewienia
+- mokra gaza
+- sucha gaza
+- folia
+
 
 Ad e) Badanie miednicy
 Może się okazać, że jeżeli miednica jest złamana w najmniej dwóch miejscach to miednica jest zrotowana. Jeżeli jeden
 tależ biodrowy jest wyżej jak drugi. Badanie obrysu, czy miednica jest stabilna. Ucisk na spojeniu łanowym
+Obrys, stabilność, rany nól
+Stabilizacja pasem miednicznym, zapobiega otwieraniu się miednicy podczas transportu. 
+Skrzyżowanie stóp i ownięcie streczem.
 
 Ad f) Badanie kończyn 
 Badanie po obrysie, poszukiwanie krwawień i sprawdzenie stabilność. Z jednej strony popchnąć a z drugiej pociągnąć.
 Zaczyna płyuwać (trzeszczenie). Czy łokieć jest stabilny. 
+Oceń: trzeszczenia, obrzęk, niestabilność
+puls, motoryka, sensoryka
+
+Złamanie - to przerwanie ciągłości kości. Pęknięcie - złamanie bez przmieszczenia
+Skręcenie - to przekroczenie fizjologicznego zakresu ruchu w stawie
+Zwichnięcie - to przemieszczanie końców kości tworzących staw
+Skręcenie i zwichnięcie dotyczy tylko stawu
+
+Unieruchomienie kończyn dolnych i górnych
+1. Zasada Potta
+Unieruchamiamyu dwa sąsiednie stawy przy złamaniu kości
+2. Zasada Potta
+Unieruchamiamyu wszystkie kości tworzące staw przy urazwie stawu
+
+Użycie stazy przy amtuacji, jak najwyżej się da. Przywiązać do ciała, Stazy nie zakłąda się na stawach. 
+Zabezpieczenie amputantu - zawijamy w gazę i wkładamy ***na sucho*** do torby foliowej. Zamknięty, zuchy worek włożyć do
+następnego worku z wodą / zimną wodą, do której dokłada się dopiero lód. 
 
 AD h) Badanie pleców
 Może sprawić dużo trudności w kopnym śniegu. 
+
 
 
 A - DROŻNOŚĆ DRÓG ODDECHOWYCH
@@ -239,3 +288,26 @@ Medykamenty (leki)
 Przebyte Choroby
 Lunch
 Ewentualne okoliczności zdarzenia
+
+
+SPOSOBY UNIERUCHOMIENIA
+=========================
+
+BADANIE MOŻNA PRZERWAĆ TYLKO Z POWODU
+=====================================
+1. Niedrożność dróg oddechowych
+2. NZK Niewydolność 
+3. Krwotoku niemożliwego do opadaniwania
+4. Niebezpieczeńśtwa na miejscu zdarzna
+
+ZAOPATRYWANIE URAZÓW
+=======================
+Szyna Kramera, Szyna splint
+
+Należy zachować naturalne krzywizny ciała o ile jest to możliwe, czyli np nogę lekko zgjętą w kolanie. 
+
+DEska ortopedyczna (tylko jeżeli pacjent będzie przebywał krócej niż półtorej godziny) , materac próźniowy - uda  
+
+
+LPR: urazy dwóch kończyn długich, uraz miednicy, utraty przytomności, trudny teren, zagrożone drogi oddechowe 
+
