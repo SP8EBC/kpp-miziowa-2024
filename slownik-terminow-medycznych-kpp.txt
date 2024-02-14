@@ -11,3 +11,13 @@ momentu powrotu koloru otaczającej skóry
 = Tachypnoë - Przyspieszony oddech
 = Bradypnoe - Spowolniony oddech
 = Orthopnoë - Nasilone duszności w pozycji leżąc na wznak
+= Tamponada serca - upośledzenie napełniania jam serca wskutek wzrostu ciśnienia 
+w osierdziu w wyniku obecności w nim płynu
+= Asystolia - brak czynności elektrycznej komór serca i przedsionków lub tylko komór
+= Skręcenie – uraz polegający na przekroczeniu fizjologicznego zakresu ruchu w stawie
+= Odma opłucnowa samoistna - Odma samoistna następuje w wyniku pęknięcia pęcherzyków rozedmowych, 
+które często zlokalizowane są w szczytowej części płuca
+= Odma opłucnowa otwarta – ten rodzaj odmy powstaje, gdy powietrze dostaje się do jamy opłucnej 
+przez otwór w klatce klatki piersiowej.
+= Odma opłucnowa zamknięta – mechanizm powstania polega na jednorazowym dostaniu się 
+powietrza do jamy opłucnej. Odma zamknięta najczęściej jest wynikiem pękniecia pęcherza rozedmowego.
